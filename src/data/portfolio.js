@@ -20,7 +20,7 @@ export const profile = {
   location: 'Coimbatore, Tamil Nadu, India',
   email: 'prethivi1011@gmail.com',
   phone: '+91 7010299315',
-  resumeHref: '/Prethivirajan-S-Resume.docx',
+  resumeHref: '/Prethivirajan-S-Resume.pdf',
   heroImage: '/prethivirajan-photo.jpeg',
   availability: 'Open to software development roles, internships, and full-stack opportunities.',
   summary:
